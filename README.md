@@ -4,4 +4,5 @@ All credit goes to the original author of the themes.
 The themes found here are free for anyone to use and must not be sold.
 
 Donations are welcome: https://www.paypal.me/liam200333
-                       [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E4MI8T5)
+                   
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E4MI8T5)
