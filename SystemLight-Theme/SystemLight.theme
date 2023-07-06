@@ -6,6 +6,7 @@
   "Offline": {
   "offlinetextcolour": "ffbabb",
   "offlinetitlecolour": "ffbf00"
+  "offlinebackgroundcolour": "ffbf00"
   },
   "backgroundcolour": "white",
   "newsbackgroundcolour": "white",
