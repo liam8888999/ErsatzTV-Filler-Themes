@@ -4,9 +4,9 @@
     "Creator": "liam8888999"
   },
   "Offline": {
-  "offlinetextcolour": "ffbabb",
-  "offlinetitlecolour": "ffbf00"
-  "offlinebackgroundcolour": "ffbf00"
+  "offlinetextcolour": "404040",
+  "offlinetitlecolour": "000000",
+  "offlinebackgroundcolour": "ffffff"
   },
   "backgroundcolour": "white",
   "newsbackgroundcolour": "white",
