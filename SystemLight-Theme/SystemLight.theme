@@ -3,10 +3,12 @@
     "Theme Name": "systemlight",
     "Creator": "liam8888999"
   },
+  "Offline": {
+  "offlinetextcolour": "ffbabb",
+  "offlinetitlecolour": "ffbf00"
+  },
   "backgroundcolour": "white",
   "newsbackgroundcolour": "white",
   "newstextcolour": "black",
   "offlinebackgroundcolour": "white",
-  "offlinetextcolour": "black",
-  "offlinetitlecolour": "ffbf00"
 }
