@@ -1,9 +1,9 @@
 {
-  "ErsatzTV-Filler-Theme": {
-    "Theme-Name": "SystemLight",
+  "Ersatz-Tv-Filler-Theme": {
+    "ThemeName": "SystemLight",
     "Creator": "liam8888999"
   },
-  "Offline": {
+  "offline": {
   "offlinetextcolour": "ffbabb",
   "offlinetitlecolour": "ffbf00"
   },
