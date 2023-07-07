@@ -1,11 +1,19 @@
 {
-  "ErsatzTV-Filler-Theme": {
-    "Theme Name": "systemdark",
+  "ErsatzTVFillerTheme": {
+    "ThemeName": "SystemDark",
     "Creator": "liam8888999"
   },
-  "backgroundcolour": "black",
-  "newsbackgroundcolour": "black",
-  "newstextcolour": "white",
-  "offlinebackgroundcolour": "black",
-  "offlinetextcolour": "white"
+  "Offline": {
+  "offlinetextcolour": "c0c0c0",
+  "offlinetitlecolour": "ffffff",
+  "offlinebackgroundcolour": "000000"
+  },
+  "News": {
+  "newstextcolour": "c0c0c0",
+  "newstitlecolour": "ffffff",
+  "newsbackgroundcolour": "000000"
+  },
+  "Weather": {
+  "weatherbackgroundcolour": "000000"
+  }
 }
