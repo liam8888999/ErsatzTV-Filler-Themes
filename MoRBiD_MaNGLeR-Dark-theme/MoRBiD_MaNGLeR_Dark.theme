@@ -1,15 +1,4 @@
 {
-  "ErsatzTV-Filler-Theme": {
-    "Theme Name": "MoRBiD_MaNGLeR-Dark",
-    "Creator": "MoRBiD_MaNGLeR"
-  },
-  "backgroundcolour": "black",
-  "newsbackgroundcolour": "black",
-  "newstextcolour": "yellow",
-  "offlinebackgroundcolour": "black",
-  "offlinetextcolour": "yellow"
-}
-{
   "ErsatzTVFillerTheme": {
     "ThemeName": "MoRBiD_MaNGLeR_Dark",
     "Creator": "MoRBiD_MaNGLeR"
