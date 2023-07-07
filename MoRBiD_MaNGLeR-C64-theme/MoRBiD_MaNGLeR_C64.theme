@@ -1,0 +1,19 @@
+{
+  "ErsatzTVFillerTheme": {
+    "ThemeName": "MoRBiD_MaNGLeR_C64",
+    "Creator": "MoRBiD_MaNGLeR"
+  },
+  "Offline": {
+  "offlinetextcolour": "80ffff",
+  "offlinetitlecolour": "00ffff",
+  "offlinebackgroundcolour": "0000ff"
+  },
+  "News": {
+  "newstextcolour": "80ffff",
+  "newstitlecolour": "00ffff",
+  "newsbackgroundcolour": "0000ff"
+  },
+  "Weather": {
+  "weatherbackgroundcolour": "0000ff"
+  }
+}
