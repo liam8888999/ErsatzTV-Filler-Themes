@@ -1,11 +1,19 @@
 {
-  "ErsatzTV-Filler-Theme": {
-    "Theme Name": "candycane",
-    "Creator": "liam8888999"
+  "ErsatzTVFillerTheme": {
+    "ThemeName": "MoRBiD_MaNGLeR_Candycane",
+    "Creator": "MoRBiD_MaNGLeR"
   },
-  "backgroundcolour": "red",
-  "newsbackgroundcolour": "red",
-  "newstextcolour": "white",
-  "offlinebackgroundcolour": "red",
-  "offlinetextcolour": "white"
+  "Offline": {
+  "offlinetextcolour": "f2f2f2",
+  "offlinetitlecolour": "ffffff",
+  "offlinebackgroundcolour": "ff0000"
+  },
+  "News": {
+  "newstextcolour": "f2f2f2",
+  "newstitlecolour": "ffffff",
+  "newsbackgroundcolour": "ff0000"
+  },
+  "Weather": {
+  "weatherbackgroundcolour": "ff0000"
+  }
 }
