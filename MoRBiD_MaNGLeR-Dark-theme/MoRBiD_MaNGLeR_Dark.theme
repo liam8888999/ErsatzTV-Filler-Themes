@@ -1,0 +1,30 @@
+{
+  "ErsatzTV-Filler-Theme": {
+    "Theme Name": "MoRBiD_MaNGLeR-Dark",
+    "Creator": "MoRBiD_MaNGLeR"
+  },
+  "backgroundcolour": "black",
+  "newsbackgroundcolour": "black",
+  "newstextcolour": "yellow",
+  "offlinebackgroundcolour": "black",
+  "offlinetextcolour": "yellow"
+}
+{
+  "ErsatzTVFillerTheme": {
+    "ThemeName": "MoRBiD_MaNGLeR_Dark",
+    "Creator": "MoRBiD_MaNGLeR"
+  },
+  "Offline": {
+  "offlinetextcolour": "ffff66",
+  "offlinetitlecolour": "ffff00",
+  "offlinebackgroundcolour": "000000"
+  },
+  "News": {
+  "newstextcolour": "ffff66",
+  "newstitlecolour": "ffff00",
+  "newsbackgroundcolour": "000000"
+  },
+  "Weather": {
+  "weatherbackgroundcolour": "000000"
+  }
+}
