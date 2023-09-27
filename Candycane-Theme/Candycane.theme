@@ -1,7 +1,8 @@
 {
   "ErsatzTVFillerTheme": {
     "ThemeName": "MoRBiD_MaNGLeR_Candycane",
-    "Creator": "MoRBiD_MaNGLeR"
+    "Creator": "MoRBiD_MaNGLeR",
+    "ThemeVersion": "2"
   },
   "Offline": {
   "offlinetextcolour": "f2f2f2",

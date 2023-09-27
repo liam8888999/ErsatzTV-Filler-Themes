@@ -1,7 +1,8 @@
 {
   "ErsatzTVFillerTheme": {
     "ThemeName": "MoRBiD_MaNGLeR_Dark",
-    "Creator": "MoRBiD_MaNGLeR"
+    "Creator": "MoRBiD_MaNGLeR",
+    "ThemeVersion": "2"
   },
   "Offline": {
   "offlinetextcolour": "ffff66",
