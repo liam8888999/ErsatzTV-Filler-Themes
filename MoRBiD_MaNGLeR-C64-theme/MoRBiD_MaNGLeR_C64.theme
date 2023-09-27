@@ -16,5 +16,8 @@
   },
   "Weather": {
   "weatherbackgroundcolour": "0000ff"
+  },
+  "ChannelLogo": {
+  "channellogobackgroundcolour": "0000ff"
   }
 }
