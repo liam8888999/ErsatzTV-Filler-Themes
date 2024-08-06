@@ -2,7 +2,7 @@
   "ErsatzTVFillerTheme": {
     "ThemeName": "SystemLight",
     "Creator": "liam8888999",
-    "ThemeVersion": "2"
+    "ThemeVersion": "3"
   },
   "Offline": {
   "offlinetextcolour": "404040",
@@ -15,7 +15,9 @@
   "newsbackgroundcolour": "ffffff"
   },
   "Weather": {
-  "weatherbackgroundcolour": "000000"
+  "weatherbackgroundcolour": "ffffff",
+  "weatherimagebackgroundcolour": "404040",
+  "weatherimagetextcolour": "ffffff"
   },
   "ChannelLogo": {
   "channellogobackgroundcolour": "000000"
