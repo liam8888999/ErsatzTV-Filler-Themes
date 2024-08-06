@@ -2,7 +2,7 @@
   "ErsatzTVFillerTheme": {
     "ThemeName": "StopandGo",
     "Creator": "liam8888999",
-    "ThemeVersion": "2"
+    "ThemeVersion": "3"
   },
   "Offline": {
   "offlinetextcolour": "ff6666",
@@ -15,7 +15,9 @@
   "newsbackgroundcolour": "90ee90"
   },
   "Weather": {
-  "weatherbackgroundcolour": "90ee90"
+  "weatherbackgroundcolour": "90ee90",
+  "weatherimagebackgroundcolour": "ff6666",
+  "weatherimagetextcolour": "90ee90"
   },
   "ChannelLogo": {
   "channellogobackgroundcolour": "90ee90"
