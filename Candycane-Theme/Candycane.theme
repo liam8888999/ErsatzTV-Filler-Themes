@@ -2,7 +2,7 @@
   "ErsatzTVFillerTheme": {
     "ThemeName": "MoRBiD_MaNGLeR_Candycane",
     "Creator": "MoRBiD_MaNGLeR",
-    "ThemeVersion": "2"
+    "ThemeVersion": "3"
   },
   "Offline": {
   "offlinetextcolour": "f2f2f2",
@@ -15,7 +15,9 @@
   "newsbackgroundcolour": "ff0000"
   },
   "Weather": {
-  "weatherbackgroundcolour": "ff0000"
+  "weatherbackgroundcolour": "f2f2f2",
+  "weatherimagebackgroundcolour": "ff0000",
+  "weatherimagetextcolour": "f2f2f2"
   },
   "ChannelLogo": {
   "channellogobackgroundcolour": "ff0000"
