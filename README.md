@@ -20,9 +20,7 @@ Donations are welcome: https://www.paypal.me/liam200333
 
 ## Theme Version History
 <details>
-  <summary><i>Wow, so fancy</i></summary>
-  <b>WOW, SO BOLD</b>
-
+  <summary>Click to expand</summary>
 
 - V3
   - Add Weather Image Background Colour and Weather Image Text Colour
