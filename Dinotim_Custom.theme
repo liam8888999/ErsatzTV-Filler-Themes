@@ -1,0 +1,23 @@
+{
+    "ErsatzTVFillerTheme": {
+        "ThemeName": "Dinotim Custom",
+        "Creator": "Dinotim",
+        "ThemeVersion": "2"
+    },
+    "Offline": {
+        "offlinetextcolour": "000000",
+        "offlinetitlecolour": "000000",
+        "offlinebackgroundcolour": "000000"
+    },
+    "News": {
+        "newstextcolour": "ffffff",
+        "newstitlecolour": "ff0000",
+        "newsbackgroundcolour": "242424"
+    },
+    "Weather": {
+        "weatherbackgroundcolour": "808080"
+    },
+    "ChannelLogo": {
+        "channellogobackgroundcolour": "000000"
+    }
+}
