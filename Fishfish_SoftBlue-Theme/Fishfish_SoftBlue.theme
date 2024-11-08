@@ -1,8 +1,8 @@
 {
     "ErsatzTVFillerTheme": {
-        "ThemeName": "Fishfish Soft Blue",
+        "ThemeName": "SoftBlue",
         "Creator": "Fishfish",
-        "ThemeVersion": "2"
+        "ThemeVersion": "3"
     },
     "Offline": {
         "offlinetextcolour": "cecece",
@@ -15,9 +15,11 @@
         "newsbackgroundcolour": "5162b5"
     },
     "Weather": {
-        "weatherbackgroundcolour": "5162b5"
+        "weatherbackgroundcolour": "7e93f1",
+        "weatherimagebackgroundcolour": "5162b5",
+        "weatherimagetextcolour": "cecece"
     },
     "ChannelLogo": {
-        "channellogobackgroundcolour": "5162b5"
+        "channellogobackgroundcolour": "757575"
     }
 }
