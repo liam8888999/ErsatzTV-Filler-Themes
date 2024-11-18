@@ -1,0 +1,25 @@
+{
+    "ErsatzTVFillerTheme": {
+        "ThemeName": "Lab53",
+        "Creator": "BM",
+        "ThemeVersion": "3"
+    },
+    "Offline": {
+        "offlinetextcolour": "9c9c9c",
+        "offlinetitlecolour": "d97c12",
+        "offlinebackgroundcolour": "000000"
+    },
+    "News": {
+        "newstextcolour": "d1d1d1",
+        "newstitlecolour": "d27c04",
+        "newsbackgroundcolour": "000000"
+    },
+    "Weather": {
+        "weatherbackgroundcolour": "000000",
+        "weatherimagebackgroundcolour": "000000",
+        "weatherimagetextcolour": "cfcfcf"
+    },
+    "ChannelLogo": {
+        "channellogobackgroundcolour": "000000"
+    }
+}
